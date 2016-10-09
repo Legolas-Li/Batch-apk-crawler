@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configruation>
+	<default_proxy>proxy02.cd.intel.com:911</default_proxy>
+	<!-- <default_proxy>proxy.ir.intel.com:1080</default_proxy> -->
+	<default_proxy_type>http</default_proxy_type>
+	<default_store_store>houdini</default_store_store>
+	<default_apk_category>application</default_apk_category>
+	<default_arch>any</default_arch>
+	<default_download_begin>1</default_download_begin>
+	<default_download_end>509</default_download_end>
+	<default_max_thread_number>30</default_max_thread_number>
+	<default_copy_file_method>all</default_copy_file_method>
+	<!-- <default_copy_file_method>all</default_copy_file_method> -->
+	<default_apk_save_path>C:\Users\Legolas\Downloads\apk_download\hudini_All</default_apk_save_path>
+	<default_apk_offline_download_path>C:\Users\Legolas\Downloads\apk_download\hudini_All</default_apk_offline_download_path>
+</configruation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configruation>
+    <default_aapt_save_path>C:\Android\sdk\build-tools\23.0.2\aapt.exe</default_aapt_save_path>
+    <!-- <default_store>baidu</default_store> -->
+    <!-- <default_store>xiaomi</default_store> -->
+    <!-- <default_store>wandoujia</default_store> -->
+    <!--<default_store>googlePlay</default_store>-->
+    <default_store>houdini</default_store>
+    <default_web_apk_api>http://shssgdpd047.sh.intel.com/api/app/register</default_web_apk_api>
+    <default_web_rank_api>http://shssgdpd047.sh.intel.com/api/app/rank/register</default_web_rank_api>
+    <default_server_apk_folder>\\ccr\ec\proj\ssg\dpd\BiTS\DaVinci_Cloud\apps</default_server_apk_folder>
+    <default_server_icon_folder>\\ccr\ec\proj\ssg\dpd\BiTS\DaVinci_Cloud\icons</default_server_icon_folder>
+    <default_server_ranking_folder>\\ccr\ec\proj\ssg\dpd\BiTS\DaVinci_Cloud\crawler\ranking</default_server_ranking_folder>
+</configruation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configruation>
+	<default_proxy>proxy02.cd.intel.com:911</default_proxy>
+	<!-- <default_proxy>proxy.ir.intel.com:1080</default_proxy> -->
+	<default_proxy_type>http</default_proxy_type>
+	<default_store_store>baidu</default_store_store>
+	<default_apk_category>application</default_apk_category>
+	<default_apk_category>game</default_apk_category>
+	<default_apk_category>系统工具</default_apk_category>
+	<default_apk_category>主题壁纸</default_apk_category>
+	<default_apk_category>社交通讯</default_apk_category>
+	<default_apk_category>生活实用</default_apk_category>
+	<default_apk_category>资讯阅读</default_apk_category>
+	<default_apk_category>影音播放</default_apk_category>
+	<default_apk_category>办公学习</default_apk_category>
+	<default_apk_category>拍摄美化</default_apk_category>
+	<default_apk_category>旅游出行</default_apk_category>
+	<default_apk_category>理财购物</default_apk_category>
+	<default_apk_category>休闲益智</default_apk_category>
+	<default_apk_category>角色扮演</default_apk_category>
+	<default_apk_category>动作射击</default_apk_category>
+	<default_apk_category>模拟辅助</default_apk_category>
+	<default_apk_category>体育竞技</default_apk_category>
+	<default_apk_category>赛车竞速</default_apk_category>
+	<default_apk_category>棋牌桌游</default_apk_category>
+	<default_apk_category>经营养成</default_apk_category>
+	<default_apk_category>网络游戏</default_apk_category>
+	<default_arch>any</default_arch>
+	<default_download_begin>1</default_download_begin>
+	<default_download_end>600</default_download_end>
+	<default_max_thread_number>30</default_max_thread_number>
+	<default_copy_file_method>different</default_copy_file_method>
+	<!-- <default_copy_file_method>all</default_copy_file_method> -->
+	<default_apk_save_path>C:\Users\yangli4x\Downloads\apk_store\baidu_store</default_apk_save_path>
+	<default_apk_offline_download_path>C:\Users\yangli4x\Downloads\apk_store\baidu_store</default_apk_offline_download_path>
+</configruation>

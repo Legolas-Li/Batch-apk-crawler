@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//appStore/apkInfo.py=utf-8
+encoding//appStore/apkInfoHandle.py=utf-8
+encoding//configuration/parseConfig.py=utf-8
+encoding//logger/logger.py=utf-8
+encoding//systemUtils/decorate.py=utf-8
+encoding//systemUtils/floderHandle.py=utf-8
+encoding//systemUtils/util.py=utf-8
+encoding//transaction/multiThreadDownload.py=utf-8
+encoding//transaction/uploadDavinci.py=utf-8
+encoding//webStore/baidu.py=utf-8
+encoding//webStore/store.py=utf-8
+encoding//webStore/xiaomi.py=utf-8
+encoding/apkCrawler.py=utf-8

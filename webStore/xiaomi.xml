@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configruation>
+	<default_proxy>proxy02.cd.intel.com:911</default_proxy>
+	<!-- <default_proxy>proxy.ir.intel.com:1080</default_proxy> -->
+	<default_proxy_type>http</default_proxy_type>
+	<default_store_store>xiaomi</default_store_store>
+	<default_apk_category>application</default_apk_category>
+	<default_apk_category>game</default_apk_category>
+	<default_apk_category>实用工具</default_apk_category>
+	<default_apk_category>影音视听</default_apk_category>
+	<default_apk_category>聊天与社交</default_apk_category>
+	<default_apk_category>图书与阅读</default_apk_category>
+	<default_apk_category>学习与教育</default_apk_category>
+	<default_apk_category>效率办公</default_apk_category>
+	<default_apk_category>时尚与购物</default_apk_category>
+	<default_apk_category>生活</default_apk_category>
+	<default_apk_category>旅行与交通</default_apk_category>
+	<default_apk_category>摄影摄像</default_apk_category>
+	<default_apk_category>医疗与健康</default_apk_category>
+	<default_apk_category>体育运动</default_apk_category>
+	<default_apk_category>新闻</default_apk_category>
+	<default_apk_category>娱乐消遣</default_apk_category>
+	<default_apk_category>理财</default_apk_category>
+	<default_apk_category>战争策略</default_apk_category>
+	<default_apk_category>动作枪战</default_apk_category>
+	<default_apk_category>赛车体育</default_apk_category>
+	<default_apk_category>网游RPG</default_apk_category>
+	<default_apk_category>棋牌桌游</default_apk_category>
+	<default_apk_category>格斗快打</default_apk_category>
+	<default_apk_category>儿童益智</default_apk_category>
+	<default_apk_category>休闲创意</default_apk_category>
+	<default_apk_category>飞行空战</default_apk_category>
+	<default_apk_category>跑酷闯关</default_apk_category>
+	<default_apk_category>塔防迷宫</default_apk_category>
+	<default_apk_category>模拟经营</default_apk_category>
+	<default_arch>any</default_arch>
+	<default_download_begin>1</default_download_begin>
+	<default_download_end>600</default_download_end>
+	<default_max_thread_number>30</default_max_thread_number>
+	<default_copy_file_method>all</default_copy_file_method>
+	<!-- <default_copy_file_method>different</default_copy_file_method> -->
+	<default_apk_save_path>C:\Users\yangli4x\Downloads\apk_store\xiaomi_store</default_apk_save_path>
+	<default_apk_offline_download_path>C:\Users\yangli4x\Downloads\apk_store\xiaomi_store</default_apk_offline_download_path>
+</configruation>

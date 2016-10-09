@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configruation>
+	<default_proxy>proxy02.cd.intel.com:911</default_proxy>
+	<!-- <default_proxy>proxy.ir.intel.com:1080</default_proxy> -->
+	<default_proxy_type>http</default_proxy_type>
+	<default_store_store>wandoujia</default_store_store>
+	<default_apk_category>application</default_apk_category>
+	<default_apk_category>game</default_apk_category>
+	<default_arch>any</default_arch>
+	<default_download_begin>1</default_download_begin>
+	<default_download_end>300</default_download_end>
+	<default_max_thread_number>30</default_max_thread_number>
+	<!-- <default_copy_file_method>different</default_copy_file_method> -->
+	<default_copy_file_method>all</default_copy_file_method>
+	<default_apk_save_path>C:\Users\yangli4x\Downloads\apk_store\wandoujia_store</default_apk_save_path>
+	<default_apk_offline_download_path>C:\Users\yangli4x\Downloads\apk_store\wandoujia_store</default_apk_offline_download_path>
+	<!-- <default_apk_save_path>C:\Users\yangli4x\Downloads\apk_store\wandoujia_local_Phone_store</default_apk_save_path>
+	<default_apk_offline_download_path>C:\Users\yangli4x\Downloads\apk_store\wandoujia_local_Phone</default_apk_offline_download_path> -->	
+	<default_download_loacal_list>False</default_download_loacal_list>
+	<default_apk_local>C:\Users\yangli4x\Desktop\list.txt</default_apk_local>
+</configruation>
